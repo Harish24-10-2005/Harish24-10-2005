@@ -205,7 +205,7 @@ Here are some of the projects I'm proud of. (More on my GitHub!)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish24-10-2005&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100000"/>
 
 <p align="center">
   <em>Thank you for visiting my profile! Let's connect and build something amazing together.</em>
