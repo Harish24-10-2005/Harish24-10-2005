@@ -5,7 +5,9 @@
     Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>, I'm Harish R
   </h1>
   
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=19A7CE&center=true&width=500&lines=AI+%26+Data+Science+Enthusiast;AGI+Enthusiast;AI+Developer;Passionate+Entrepreneur;MERN+Stack+Developer;Tech+Innovator;Problem+Solver" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
 
   <p align="center">
     Passionate B.Tech AI & Data Science student at Sri Eshwar College of Engineering (2023-2027). <br />
