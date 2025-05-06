@@ -201,9 +201,12 @@ Here are some of the projects I'm proud of. (More on my GitHub!)
   <img src="https://github-readme-stats.vercel.app/api?username=Harish24-10-2005&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Harish's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish24-10-2005&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish24-10-2005&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Harish24-10-2005&theme=radical&hide_border=true&mode=daily&sections=total,current,longest" alt="GitHub Streak" />
 </p>
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100000"/>
 
