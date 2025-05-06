@@ -98,7 +98,7 @@ Here are some of the projects I'm proud of. (More on my GitHub!)
       <h3>🧠 Sketch Mentor - AI Math Problem Solver</h3>
       <p>AI platform for real-time handwritten math problem recognition, providing step-by-step video guides and interactive visualizations.</p>
       <p><strong>Tech:</strong> Computer Vision, NLP, AI Agents, Educational AI, Deep Learning, Dynamic Video Creation.</p>
-      <a href="#_insert_correct_youtube_link_here_" target="_blank">🎬 Watch the Video</a> 
+      <a href="https://www.youtube.com/watch?feature=shared&v=qdQFVhxujs0" target="_blank">🎬 Watch the Video</a> 
     </td>
   </tr>
   <tr>
