@@ -144,16 +144,16 @@ Here are some of the projects I'm proud of. (More on my GitHub!)
 
 <p align="center">
   <a href="https://leetcode.com/u/harishravikumar2005/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&label=LeetCode&message=400%2B Problems" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&label=LeetCode&message=400%2B+Problems" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/harishr2aofi/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&label=GFG&message=64%2B Problems" alt="GeeksforGeeks"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&label=GFG&message=64%2B+Problems" alt="GeeksforGeeks"/>
   </a>
   <a href="https://www.codechef.com/users/harishr2005" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&label=CodeChef&message=1183+Rating" alt="CodeChef"/>
   </a>
   <a href="https://www.skillrack.com/faces/resume.xhtml?id=483833&key=41f6d170fe24aa40df0de65a6ea882d3a958a7eb" target="_blank">
-    <img src="https://img.shields.io/badge/SkillRack-1A73E8?style=for-the-badge&logo=googlecolab&logoColor=white&label=SkillRack&message=170%2B Problems" alt="SkillRack"/> 
+    <img src="https://img.shields.io/badge/SkillRack-1A73E8?style=for-the-badge&logo=googlecolab&logoColor=white&label=SkillRack&message=170%2B+Problems" alt="SkillRack"/> 
   </a>
 </p>
 
