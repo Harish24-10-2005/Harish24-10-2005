@@ -7,7 +7,7 @@
   
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=19A7CE&center=true&width=500&lines=AI+%26+Data+Science+Enthusiast;AGI+Enthusiast;AI+Developer;Passionate+Entrepreneur;MERN+Stack+Developer;Tech+Innovator;Problem+Solver" alt="Typing SVG" />
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
 
   <p align="center">
     Passionate B.Tech AI & Data Science student at Sri Eshwar College of Engineering (2023-2027). <br />
@@ -30,186 +30,333 @@
   </div>
 </div>
 
----
+<hr>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 I'm currently pursuing my **B.Tech in Artificial Intelligence and Data Science** from Sri Eshwar College of Engineering (CGPA: 8.3).
-* 💡 I'm passionate about leveraging AI and Machine Learning to solve real-world problems and create innovative solutions.
-* 🌱 I’m currently learning more about advanced AI Agent frameworks (Langchain, Pydantic) and exploring the depths of Deep Learning and Generative Ai and AI agents.
-* 👯 I’m looking to collaborate on exciting projects involving AI, Data Science, or Full-Stack Development.
-* 💬 Ask me about **Python, Machine Learning, MERN Stack, AI Agents, or Computer Vision**.
-* ⚡ Fun fact: I enjoy transforming complex data into actionable insights and visually appealing dashboards!
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding Animation">
 
----
+- 👨‍🎓 B.Tech in **Artificial Intelligence and Data Science** (CGPA: 8.3)
+- 🚀 Building **AI Agents** and **ML Systems** for real-world impact
+- 🔭 Currently exploring **LangChain**, **Pydantic**, and **Generative AI**
+- 💼 Open to collaborate on exciting AI and Full-Stack projects
+- 🌱 Learning advanced AI Agent frameworks and Deep Learning
+- 💬 Ask me about **Python, ML, MERN Stack, or Computer Vision**
+- ⚡ Fun fact: I transform complex data into actionable insights!
 
-<details>
-<summary><strong>🛠️ Click to Expand My Tech Stack</strong></summary>
-<br> <p align="center">
+<br clear="right"/>
+
+<hr>
+
+## 🛠️ Tech Stack
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,js,react,nodejs,express,fastapi,mysql,mongodb,postgres,supabase,pytorch,vscode,blender,github,git,figma&perline=10" alt="Skills Icons"/>
   </a>
 </p>
 
-**Programming Languages:**
-* C, C++, Python, Java
+<div align="center">
+  <h3>Programming Languages & Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </p>
 
-**Core Concepts:**
-* Data Structures & Algorithms, DBMS, Object Oriented Programming, Deep Learning, AI Agents
+  <h3>AI & Data Science</h3>
+  <p>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </p>
 
-**Web Technologies:**
-* HTML, JavaScript, React, Node.js, Express.js
+  <h3>Web Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
 
-**Backend Tech Stack:**
-* FastAPI
+  <h3>Databases</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  </p>
 
-**Databases:**
-* MySQL, MongoDB, PostgreSQL (basics)
-* **Vector Database:** Supabase
-* RAG basics
+  <h3>Development Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  </p>
+</div>
 
-**Data Science & ML Tech Stacks:**
-* Pandas, NumPy, Matplotlib, Pyspark, PyTorch, Supervised ML, Transformers Concepts, Seaborn, Power BI, Tableau (basic) 
-  *(Note: Icons for Pandas, NumPy, Matplotlib, Pyspark, Seaborn, Power BI, Tableau may not be available in the image above)*
+<hr>
 
-**AI Agent Frameworks:**
-* Pydantic, Langchain (basics) 
-  *(Note: Icon for Langchain may not be available in the image above)*
+## 🏆 Competitive Programming
 
-**Protocols:**
-* A2A & MCP Servers
-
-**Tools:**
-* VSCode, Canva, Excel, PowerPoint, Jupyter Notebook, Blender, GitHub, Git, Figma
-<br> </details>
-
----
-
-## ✨ My Projects
-
-Here are some of the projects I'm proud of. (More on my GitHub!)
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔊 Noiceless (PATENTED) - Motion Capture Tech</h3>
-      <p>Automated pipeline for converting 3D motion capture data to BVH format, using advanced smoothing and the SMPL model for realistic animations.</p>
-      <p><strong>Tech:</strong> OpenCV, Motion Capture, Data Smoothing, SMPL Model, Animation Technology.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Sketch Mentor - AI Math Problem Solver</h3>
-      <p>AI platform for real-time handwritten math problem recognition, providing step-by-step video guides and interactive visualizations.</p>
-      <p><strong>Tech:</strong> Computer Vision, NLP, AI Agents, Educational AI, Deep Learning, Dynamic Video Creation.</p>
-      <a href="https://www.youtube.com/watch?feature=shared&v=qdQFVhxujs0" target="_blank">🎬 Watch the Video</a> 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📹 HorixYt - AI Agentic Video Generation</h3>
-      <p>AI-driven pipeline for YouTube Shorts automation (98% automated), tripling content output and boosting engagement by 40%.</p>
-      <p><strong>Tech:</strong> AI Automation, LLM, Video Analytics, Content Creation, YouTube Automation, AI Agents.</p>
-      <a href="https://github.com/Harish24-10-2005/YouTube_Shorts_Automation" target="_blank">🔗 GitHub Link</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌾 Yeildify - ML-Based Smart Farming</h3>
-      <p>Integrated agriculture system for novice farmers with soil/weather prediction and disease detection (94-98% accuracy).</p>
-      <p><strong>Tech:</strong> Machine Learning, AI Agents, Deep Learning (CNN), Smart Agriculture, Predictive Analytics.</p>
-      <a href="https://github.com/Harish24-10-2005/Yieldify" target="_blank">🔗 GitHub Link</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 ShopLens AI - AI E-Commerce Product Detection</h3>
-      <p>AI platform to detect products in videos, analyze them, and provide real-time price comparisons across e-commerce sites.</p>
-      <p><strong>Tech:</strong> Computer Vision, LLM, OpenCV, Price Comparison, AI-Agentic Product Detection.</p>
-      <a href="https://github.com/Harish24-10-2005/ShopLens-" target="_blank">🔗 GitHub Link</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 AItalytics - AI Data Science Insights Platform</h3>
-      <p>AI platform for data sourcing, synthetic data generation, automated model building, and AI-driven dashboard creation for informed decision-making.</p>
-      <p><strong>Tech:</strong> AI, Data Sourcing, Synthetic Data, Model Building, AI Dashboards, Data Analytics, Data Visualization.</p>
+<div align="center">
+  
+  ![](https://leetcard.username.cool/harishravikumar2005?ext=contest)
+  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://leetcode.com/u/harishravikumar2005/" target="_blank">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&label=LeetCode&message=400%2B+Problems" alt="Leetcode"/>
+        </a>
       </td>
+      <td align="center">
+        <a href="https://www.geeksforgeeks.org/user/harishr2aofi/" target="_blank">
+          <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.codechef.com/users/harishr2005" target="_blank">
+          <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.skillrack.com/faces/resume.xhtml?id=483833&key=41f6d170fe24aa40df0de65a6ea882d3a958a7eb" target="_blank">
+          <img src="https://img.shields.io/badge/SkillRack-1A73E8?style=for-the-badge&logo=googlecolab&logoColor=white" alt="SkillRack"/> 
+        </a>
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://leetcode.com/u/harishravikumar2005/" target="_blank">
+          <img src="https://leetcard.jacoblin.cool/harishravikumar2005?ext=contest" alt="Leetcode"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.geeksforgeeks.org/user/harishr2aofi/" target="_blank">
+          <img src="https://gfgstatscard.vercel.app/harishr2aofi?theme=light" alt="GeeksforGeeks"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.codechef.com/users/harishr2005" target="_blank">
+          <img src="https://codechef-readme-stats.onrender.com/harishr2005?v=1" alt="CodeChef"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+<hr>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/🔊-Noiceless-fd7e14?style=for-the-badge" alt="Project Badge"/>
+      </a>
+      <h3>Noiceless (PATENTED)</h3>
+      <p>Advanced motion capture pipeline converting 3D data to BVH format using SMPL model for realistic animations.</p>
+      <p><b>Tech:</b> OpenCV, Motion Capture, Data Smoothing, SMPL Model</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Motion_Capture-PATENTED-success?style=for-the-badge"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.youtube.com/watch?feature=shared&v=qdQFVhxujs0" target="_blank">
+        <img src="https://img.shields.io/badge/🧠-Sketch_Mentor-6f42c1?style=for-the-badge" alt="Project Badge"/>
+      </a>
+      <h3>Sketch Mentor</h3>
+      <p>AI platform for real-time handwritten math problem recognition with step-by-step video guides.</p>
+      <p><b>Tech:</b> Computer Vision, NLP, AI Agents, Dynamic Video Creation</p>
+      <div align="center">
+        <a href="https://www.youtube.com/watch?feature=shared&v=qdQFVhxujs0" target="_blank">
+          <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Harish24-10-2005/YouTube_Shorts_Automation" target="_blank">
+        <img src="https://img.shields.io/badge/📹-HorixYt-0366d6?style=for-the-badge" alt="Project Badge"/>
+      </a>
+      <h3>HorixYt</h3>
+      <p>AI-driven pipeline for YouTube Shorts automation (98% automated), boosting engagement by 40%.</p>
+      <p><b>Tech:</b> AI Automation, LLM, Video Analytics, AI Agents</p>
+      <div align="center">
+        <a href="https://github.com/Harish24-10-2005/YouTube_Shorts_Automation" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Harish24-10-2005/Yieldify" target="_blank">
+        <img src="https://img.shields.io/badge/🌾-Yieldify-28a745?style=for-the-badge" alt="Project Badge"/>
+      </a>
+      <h3>Yieldify</h3>
+      <p>Integrated agriculture system with soil/weather prediction and disease detection (94-98% accuracy).</p>
+      <p><b>Tech:</b> Machine Learning, AI Agents, Deep Learning (CNN), Predictive Analytics</p>
+      <div align="center">
+        <a href="https://github.com/Harish24-10-2005/Yieldify" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
   </tr>
 </table>
 
----
-
-## 💼 Internship Experience
-
-### G- Zoft Tech Solutions – MERN Stack Intern (Expected 2025)
-* Gained hands-on experience in the MERN (MongoDB, Express.js, React, Node.js) stack.
-* Developed and implemented a data warehouse solution, contributing to data storage and retrieval functionalities using MERN technologies.
-
----
-
-## 🏆 Coding Profiles & Competitive Programming
-
-<p align="center">
-  <a href="https://leetcode.com/u/harishravikumar2005/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&label=LeetCode&message=400%2B+Problems" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/harishr2aofi/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&label=GFG&message=64%2B+Problems" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://www.codechef.com/users/harishr2005" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&label=CodeChef&message=1183+Rating" alt="CodeChef"/>
-  </a>
-  <a href="https://www.skillrack.com/faces/resume.xhtml?id=483833&key=41f6d170fe24aa40df0de65a6ea882d3a958a7eb" target="_blank">
-    <img src="https://img.shields.io/badge/SkillRack-1A73E8?style=for-the-badge&logo=googlecolab&logoColor=white&label=SkillRack&message=170%2B+Problems" alt="SkillRack"/> 
-  </a>
-</p>
-
-* **LeetCode:** Solved 400+ problems | Max Rating: 1,576 | Global Rank: 186,712
-* **Geeks For Geeks:** Solved 64+ problems | Institute Rank: 76
-* **CodeChef:** Max Rating: 1183 | Global Rank: 88399
-* **Skill Rack:** Solved 170+ problems | Top 18th in Contest - College level | 53+ Bronzes
-
----
-
 <details>
-<summary><strong>📜 Click to Expand Certifications</strong></summary>
+<summary><b>🔍 View More Projects</b></summary>
 <br>
 
-* Programming in Python for Data Science | **IBM (2024)**
-* Introduction to Artificial Intelligence | **IBM in Coursera (2024)**
-* Supervised Machine Learning: Regression and Classification | **Stanford & DeepLearning.AI (2024)**
-* Advanced Learning Algorithms | **Stanford & DeepLearning.AI (2024)**
-* Data Structures and Algorithms | **Udemy (2024)**
-* Programming in C | **NPTEL (2024)**
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Harish24-10-2005/ShopLens-" target="_blank">
+        <img src="https://img.shields.io/badge/🛒-ShopLens_AI-e83e8c?style=for-the-badge" alt="Project Badge"/>
+      </a>
+      <h3>ShopLens AI</h3>
+      <p>AI platform to detect products in videos with real-time price comparisons across e-commerce sites.</p>
+      <p><b>Tech:</b> Computer Vision, LLM, OpenCV, Price Comparison</p>
+      <div align="center">
+        <a href="https://github.com/Harish24-10-2005/ShopLens-" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/📊-AItalytics-17a2b8?style=for-the-badge" alt="Project Badge"/>
+      </a>
+      <h3>AItalytics</h3>
+      <p>AI platform for data sourcing, synthetic generation, automated model building, and AI-driven dashboard creation.</p>
+      <p><b>Tech:</b> AI, Synthetic Data, Model Building, Data Analytics, Visualization</p>
+    </td>
+  </tr>
+</table>
 </details>
 
----
+<hr>
 
-<details>
-<summary><strong>🎉 Click to Expand Achievements</strong></summary>
-<br>
+## 💼 Experience
 
-* 🥇 **1st Place** in Creatathon (Solo)
-* 🥇 **1st Place** in Electra code Debugging (Solo)
-* 🥇 **1st Place** in Code Fiesta
-* 🥇 **1st Place** in Python Project Expo (Solo)
-* 🥇 **1st Place** in Mini Project Expo
-<br>
-</details>
+<div style="border-left: 3px solid #3498db; padding-left: 20px; margin-bottom: 20px;">
+  <h3>G-Zoft Tech Solutions – MERN Stack Intern</h3>
+  <p><em>Expected 2025</em></p>
+  <ul>
+    <li>Gained hands-on experience in the MERN (MongoDB, Express.js, React, Node.js) stack</li>
+    <li>Developed and implemented a data warehouse solution for efficient data storage and retrieval</li>
+    <li>Collaborated with senior developers on production-grade application development</li>
+  </ul>
+</div>
 
----
+<hr>
 
-## 📊 My GitHub Stats
+## 🏅 Achievements & Certifications
+
+<div align="center">
+  <h3>🏆 Achievements</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/1st_Place-Creatathon-gold?style=for-the-badge" alt="Achievement"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/1st_Place-Electra_Code_Debugging-gold?style=for-the-badge" alt="Achievement"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/1st_Place-Code_Fiesta-gold?style=for-the-badge" alt="Achievement"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/1st_Place-Python_Project_Expo-gold?style=for-the-badge" alt="Achievement"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://img.shields.io/badge/1st_Place-Mini_Project_Expo-gold?style=for-the-badge" alt="Achievement"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>📜 Certifications</h3>
+  <table>
+    <tr>
+      <td><b>Programming in Python for Data Science</b></td>
+      <td><img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm" alt="IBM"/></td>
+    </tr>
+    <tr>
+      <td><b>Introduction to Artificial Intelligence</b></td>
+      <td><img src="https://img.shields.io/badge/IBM_Coursera-0056D2?style=flat-square&logo=coursera" alt="IBM Coursera"/></td>
+    </tr>
+    <tr>
+      <td><b>Supervised Machine Learning: Regression and Classification</b></td>
+      <td><img src="https://img.shields.io/badge/Stanford_&_DeepLearning.AI-00505c?style=flat-square" alt="Stanford"/></td>
+    </tr>
+    <tr>
+      <td><b>Advanced Learning Algorithms</b></td>
+      <td><img src="https://img.shields.io/badge/Stanford_&_DeepLearning.AI-00505c?style=flat-square" alt="Stanford"/></td>
+    </tr>
+    <tr>
+      <td><b>Data Structures and Algorithms</b></td>
+      <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy"/></td>
+    </tr>
+    <tr>
+      <td><b>Programming in C</b></td>
+      <td><img src="https://img.shields.io/badge/NPTEL-4285F4?style=flat-square" alt="NPTEL"/></td>
+    </tr>
+  </table>
+</div>
+
+<hr>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harish24-10-2005&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Harish's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Harish24-10-2005&theme=radical&hide_border=true&mode=daily" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish24-10-2005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harish24-10-2005&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harish24-10-2005&style=for-the-badge&color=blue" alt="Profile Views"/>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harish24-10-2005&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Harish's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish24-10-2005&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Harish24-10-2005&theme=radical&hide_border=true&mode=daily&sections=total,current,longest" alt="GitHub Streak" />
-</p>
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100000"/>
-
-<p align="center">
-  <em>Thank you for visiting my profile! Let's connect and build something amazing together.</em>
+  <em>Thank you for visiting my profile! Let's connect and build something amazing together. 🚀</em>
 </p>
