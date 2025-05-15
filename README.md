@@ -38,10 +38,18 @@
 - 👨‍🎓 B.Tech in **Artificial Intelligence and Data Science** (CGPA: 8.3)
 - 🚀 Building **AI Agents** and **ML Systems** for real-world impact
 - 🔭 Currently exploring **LangChain**, **Pydantic**, and **Generative AI**
-- 💼 Open to collaborate on exciting AI and Full-Stack projects
-- 🌱 Learning advanced AI Agent frameworks and Deep Learning
-- 💬 Ask me about **Python, ML, MERN Stack, or Computer Vision**
-- ⚡ Fun fact: I transform complex data into actionable insights!
+- 🧠 Passionate about **AI-driven problem solving**, **autonomous agents**, and **data-centric development**
+- 💼 Open to collaborate on exciting **AI**, **Full-Stack**, and **Research-focused** projects  
+- 🌱 Continuously learning **advanced AI Agent frameworks**, **LLMs**, and **Deep Learning**
+- 💬 Ask me about **Python**, **Machine Learning**, **MERN Stack**, or **Computer Vision**
+- 🛠️ Experience with **Vector Databases**, **Prompt Engineering**, and **Model Deployment**
+- 📊 Skilled in transforming complex datasets into **clear, actionable insights**
+- 🧩 Love building **modular**, **scalable**, and **efficient** AI systems
+- ### ⚡ Fun Facts
+- ✨ I enjoy simplifying complex systems into clean, usable tools
+- 🧭 Always on the lookout for the **next frontier in AI automation**
+- 🎯 Strong believer in **learning by doing** and **sharing through building**
+
 
 <br clear="right"/>
 
